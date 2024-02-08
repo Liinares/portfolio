@@ -1,0 +1,267 @@
+{
+  "basics": {
+    "name": "Miguel Ángel Linares Martínez",
+    "label": "Ingeniero Software con más de 1 año de experiencia y estudiante del MUITSS en la UPV",
+    "image": "/foto.png",
+    "email": "miguellinarese@gmail.com",
+    "phone": "+34 640697793",
+    "url": "",
+    "summary": "Actualmente, sigo ampliando mis conocimientos como estudiante del MUITSS en la UPV. En mi experiencia profesional, he colaborado en proyectos que involucran tecnologías .NET con desarrollo dirigido por modelos (MDD) y verificación y validación del software en arquitectura de microservicios. Además, tengo experiencia con tecnologías como Javascript, NodeJS y React, y siento un gran interés en continuar aprendiendo y desarrollando mis habilidades en estas áreas. Soy una persona curiosa que busca constantemente oportunidades de seguir aprendiendo nuevas tecnologías. Me considero una persona con la que es fácil de trabajar, resolutivo con los problemas y con capacidad para seguir creciendo en el mundo laboral.",
+    "location": {
+      "address": "",
+      "postalCode": "46021",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/miguel-%C3%A1ngel-linares-mart%C3%ADnez-12b36b23a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ADD Informática",
+      "position": "Ingeniero de software",
+      "url": "",
+      "startDate": "2022-11-01",
+      "endDate": "2024-02-01",
+      "summary": "Diseño y desarrollo de microservicios para la integración de datos socio-sanitarios utilizando el estándar HL7 FHIR. Desarrollo dirigido por modelos(MDD) a través de una herramienta de DSL Tools con tecnología ASP .NET. Testing unitario y de integración para verificar la calidad y funcionalidad del software.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Zunix Soluciones Técnicas",
+      "position": "Electricista",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2022-09-01",
+      "summary": "Durante los veranos y complementando mis estudios trabajé como electricista realizando cuadros eléctricos y ayudando con la gestión de inventarios.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Politécnica de Valencia",
+    "url": "",
+    "area": "Máster Universitario en Ingeniería y Tecnología de Sistemas Software - MUITSS",
+    "studyType": "Máster",
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Universidad Politécnica de Valencia",
+    "url": "",
+    "area": "Ingeniería Informática con mención en Ingeniería Software",
+    "studyType": "Bachelor",
+    "startDate": "2019-01-01",
+    "endDate": "2023-01-01",
+    "score": "4.0",
+    "courses": [
+      ""
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
