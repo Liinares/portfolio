@@ -190,8 +190,8 @@
   "projects": [
     {
       "name": "Portfolio personal",
-      "isActive": true,
-      "description": "Porfolio personal minimalista",
+      "isActive": false,
+      "description": "Porfolio personal minimalista que se puede imprimir, responsive y que tiene integrada un keyboard manager. Realizado con el framework Astro y Tailwind CSS para el diseño.",
       "highlights": [
         "Astro",
         "HTML",
@@ -200,6 +200,24 @@
       ],
       "url": "",
       "github": "https://github.com/Liinares/portfolio"
+    },
+    {
+      "name": "Bootcamp fullstack de desarrollo web, Universidad de Helsinki",
+      "isActive": false,
+      "description": "Curso de desarrollo web que abarca tecnologías como  React, Redux, Node.js, MongoDB, GraphQL y TypeScript. El enfoque principal es la creación de Single Page Applications(SPA) con ReactJS que usan REST API creadas con NodeJS.",
+      "highlights": [
+        "React",
+        "HTML",
+        "CSS",
+        "Redux",
+        "Node.js",
+        "MongoDB",
+        "GraphQL",
+        "TypeScript",
+        "REST"
+      ],
+      "url": "",
+      "github": "https://github.com/Liinares/bootcampFullStack"
     }
   ]
 }
